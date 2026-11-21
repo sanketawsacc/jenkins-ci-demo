@@ -7,3 +7,4 @@ My first Jenkins CI/CD practice project.
 - Jenkins automation
 - Continuous Integration
 - Maven build and testing
+-new commit
